@@ -15,16 +15,24 @@ some companies, they speak on their personal behalf and do not represent
 these companies.
 
 # References
+* [Arxiv - The Data Lakehouse: Data Warehousing and More - 2023 - ](https://arxiv.org/pdf/2310.08697.pdf)
+  * Authors: Dipankar Mazumdar, Jason Hughes, JB Onofré (all working at Dremio at the time)
+  * Date: October 2023
+* [What is Apache XTable (formerly OneTable) — Interoperability for Apache Hudi, Iceberg & Delta Lake](https://dipankar-tnt.medium.com/onetable-interoperability-for-apache-hudi-iceberg-delta-lake-bb8b27dd288d)
+  * Author: Dipankar Mazumdar
+    ([Dipankar Mazumdar on LinkedIn](https://www.linkedin.com/in/dipankar-mazumdar/),
+    [Dipankar Mazumdar on Medium](https://dipankar-tnt.medium.com/))
+  * Date: Dec. 2023
 * [Understanding Parquet, Iceberg and Data Lakehouses at Broad](https://davidgomes.com/understanding-parquet-iceberg-and-data-lakehouses-at-broad/)
-  + Author: David Gomes
+  * Author: David Gomes
     ([David Gomes on LinkedIn](https://www.linkedin.com/in/davidrfgomes/),
     [David Gomes profile page on his own blog](https://davidgomes.com/about-me/))
-  + Date: December 2023
+  * Date: December 2023
 * [Understanding Big Data File Formats](https://www.vladsiv.com/big-data-file-formats/)
-  + Author: Vladimir Sivcevic
+  * Author: Vladimir Sivcevic
     ([Vladimir Sivcevic on LinkeDIn](https://www.linkedin.com/in/vladimirsiv/),
     [Vladimir Sivcevic profile page on his own blog](https://www.vladsiv.com/about/))
-  + Date: April 2022
+  * Date: April 2022
 * [Material for the Data platform - Meta-data](https://github.com/data-engineering-helpers/metadata)
 * [Material for the Data platform - Data contracts](https://github.com/data-engineering-helpers/data-contracts)
 * [Material for the Data platform - Data quality](https://github.com/data-engineering-helpers/data-quality/blob/main/README.md)
