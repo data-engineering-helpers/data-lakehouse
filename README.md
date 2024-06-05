@@ -15,6 +15,9 @@ some companies, they speak on their personal behalf and do not represent
 these companies.
 
 # References
+* [DataBricks blog - What is a data lakehouse](https://www.databricks.com/blog/2020/01/30/what-is-a-data-lakehouse.html)
+  * Authors: Ben Lorica, Michael Armbrust, Reynold Xin, Matei Zaharia and Ali Ghodsi
+  * Date: Jan. 2020
 * [Arxiv - The Data Lakehouse: Data Warehousing and More - 2023 - ](https://arxiv.org/pdf/2310.08697.pdf)
   * Authors: Dipankar Mazumdar, Jason Hughes, JB Onofré (all working at Dremio at the time)
   * Date: October 2023
