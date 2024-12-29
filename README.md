@@ -18,6 +18,8 @@ these companies.
 * [DataBricks blog - What is a data lakehouse](https://www.databricks.com/blog/2020/01/30/what-is-a-data-lakehouse.html)
   * Authors: Ben Lorica, Michael Armbrust, Reynold Xin, Matei Zaharia and Ali Ghodsi
   * Date: Jan. 2020
+* [Snowflake guides - What is a data lakehouse](https://www.snowflake.com/guides/what-data-lakehouse/) 
+* [Google Cloud - What is a data lakehouse](https://cloud.google.com/discover/what-is-a-data-lakehouse)
 * [Arxiv - The Data Lakehouse: Data Warehousing and More - 2023 - ](https://arxiv.org/pdf/2310.08697.pdf)
   * Authors: Dipankar Mazumdar, Jason Hughes, JB Onofré (all working at Dremio at the time)
   * Date: October 2023
