@@ -23,6 +23,7 @@ these companies.
 * [Arxiv - The Data Lakehouse: Data Warehousing and More - 2023 - ](https://arxiv.org/pdf/2310.08697.pdf)
   * Authors: Dipankar Mazumdar, Jason Hughes, JB Onofré (all working at Dremio at the time)
   * Date: October 2023
+* Link to the article: https://www.linkedin.com/posts/dipankar-mazumdar_dataengineering-softwareengineering-activity-7283666426437980160-A33n
 * [What is Apache XTable (formerly OneTable) — Interoperability for Apache Hudi, Iceberg & Delta Lake](https://dipankar-tnt.medium.com/onetable-interoperability-for-apache-hudi-iceberg-delta-lake-bb8b27dd288d)
   * Author: Dipankar Mazumdar
     ([Dipankar Mazumdar on LinkedIn](https://www.linkedin.com/in/dipankar-mazumdar/),
