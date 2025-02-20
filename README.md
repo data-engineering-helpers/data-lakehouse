@@ -49,6 +49,14 @@ these companies.
 
 # Articles
 
+## ACID Transactions in an Open Data Lakehouse
+* Title: ACID Transactions in an Open Data Lakehouse
+* Date: Feb. 2025
+* Author: Dipankar Mazumdar
+  ([Dipankar Mazumdar on LinkedIn](https://www.linkedin.com/in/dipankar-mazumdar/))
+* Link to the article on OneHouse:
+  https://www.onehouse.ai/blog/acid-transactions-in-an-open-data-lakehouse
+
 ## Why are companies building a lakehouse
 * Title: Why are companies building a lakehouse
 * Date: Feb. 2025
