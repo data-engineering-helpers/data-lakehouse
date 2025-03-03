@@ -49,6 +49,10 @@ these companies.
 
 # Articles
 
+## tbc
+* Link to the article on Medium:
+  https://medium.com/adevinta-tech-blog/from-lakehouse-architecture-to-data-mesh-c532c91f7b61
+
 ## ACID Transactions in an Open Data Lakehouse
 * Title: ACID Transactions in an Open Data Lakehouse
 * Date: Feb. 2025
