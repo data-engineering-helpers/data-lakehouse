@@ -49,7 +49,11 @@ these companies.
 
 # Articles
 
-## tbc
+## From Lakehouse architecture to data mesh
+* Title: From Lakehouse architecture to data mesh
+* Date: Dec. 2024
+* Author: Adevinta
+  ([Adevinta on Medium](https://medium.com/@adevinta))
 * Link to the article on Medium:
   https://medium.com/adevinta-tech-blog/from-lakehouse-architecture-to-data-mesh-c532c91f7b61
 
