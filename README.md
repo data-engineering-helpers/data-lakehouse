@@ -49,14 +49,6 @@ these companies.
 
 # Articles
 
-## From Lakehouse architecture to data mesh
-* Title: From Lakehouse architecture to data mesh
-* Date: Dec. 2024
-* Author: Adevinta
-  ([Adevinta on Medium](https://medium.com/@adevinta))
-* Link to the article on Medium:
-  https://medium.com/adevinta-tech-blog/from-lakehouse-architecture-to-data-mesh-c532c91f7b61
-
 ## ACID Transactions in an Open Data Lakehouse
 * Title: ACID Transactions in an Open Data Lakehouse
 * Date: Feb. 2025
@@ -75,6 +67,25 @@ these companies.
 1. Reduce costs
 2. Eliminate lock-in
 3. Be more agile and flexible
+
+## From Lakehouse architecture to data mesh
+* Title: From Lakehouse architecture to data mesh
+* Date: Dec. 2024
+* Author: Adevinta
+  ([Adevinta on Medium](https://medium.com/@adevinta))
+* Link to the article on Medium:
+  https://medium.com/adevinta-tech-blog/from-lakehouse-architecture-to-data-mesh-c532c91f7b61
+
+## Open Table Formats and the Open Data Lakehouse
+* Title: Open Table Formats and the Open Data Lakehouse, In Perspective
+* Date: Oct. 2024
+* Author: Dipankar Mazumdar
+  ([Dipankar Mazumdar on LinkedIn](https://www.linkedin.com/in/dipankar-mazumdar/))
+* Link to the article on the OneHouse's blog:
+  https://www.onehouse.ai/blog/open-table-formats-and-the-open-data-lakehouse-in-perspective
+* Related open source projects:
+  * [Apache XTable](https://github.com/apache/incubator-xtable)
+  * [Apache Hudi](https://github.com/apache/hudi)
 
 ## Understanding Parquet, Iceberg and data lake-houses at broad
 * Understanding Parquet, Iceberg and Data Lakehouses at Broad
