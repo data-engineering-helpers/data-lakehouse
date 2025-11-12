@@ -27,6 +27,13 @@ these companies.
 
 # References
 
+## Awesome lakehouse guide
+* GitHub repository: https://github.com/dipankarmazumdar/awesome-lakehouse-guide
+* Author/maintainer: [Dipankar Mazumdar](https://www.linkedin.com/in/dipankar-mazumdar/)
+* Post on LinkedIn:
+  * https://www.linkedin.com/posts/dipankar-mazumdar_dataengineering-softwareengineering-activity-7394177118315671552-KwPH
+  * Date: Nov. 2025
+
 ## DataBricks blog - What is a data lakehouse
 * [DataBricks blog - What is a data lakehouse](https://www.databricks.com/blog/2020/01/30/what-is-a-data-lakehouse.html)
   * Authors: Ben Lorica, Michael Armbrust, Reynold Xin, Matei Zaharia and Ali Ghodsi
