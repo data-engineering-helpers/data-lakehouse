@@ -118,3 +118,16 @@ these companies.
   [Vladimir Sivcevic profile page on his own blog](https://www.vladsiv.com/about/))
 * Date: April 2022
 * Link to the article: https://www.vladsiv.com/big-data-file-formats/
+
+# Frameworks
+
+## PostgreSQL extensions
+
+### `pg_lake`
+
+### `pg_incremental`
+* Post on LinkedIn: https://www.linkedin.com/posts/marcoslot_why-we-developed-pgincremental-one-of-activity-7392183986577440770-HCZU/
+* Date: Nov. 2025
+* Author: [Marco Slot](https://www.linkedin.com/in/marcoslot/)
+
+
