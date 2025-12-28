@@ -24,6 +24,7 @@ these companies.
 * [Data Engineering Helpers - Knowledge Sharing - Metadata](https://github.com/data-engineering-helpers/metadata)
 * [Data Engineering Helpers - Knowledge Sharing - Data pipeline deployment](https://github.com/data-engineering-helpers/data-pipeline-deployment)
 * [Data Engineering Helpers - Knowledge Sharing - Semantic layer](https://github.com/data-engineering-helpers/semantic-layer)
+* [Data Engineering Helpers - Knowledge Sharing - Data analytics/analysis](https://github.com/data-engineering-helpers/data-analytics)
 
 # References
 
