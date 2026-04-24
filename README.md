@@ -57,6 +57,16 @@ these companies.
 
 # Articles
 
+## Apache Arraw ecosystem
+
+* Title: The Apache Arrow Ecosystem
+* Date: Apr. 2026
+* Author: Hoyt Emerson
+  ([Hoyt Emerson on LinkedIn](https://www.linkedin.com/in/hoytemerson/),
+  [Hoyt Emerson on Substack](https://substack.com/@hoytemerson))
+* [Substack post](https://thefulldatastack.substack.com/p/the-apache-arrow-ecosystem)
+  * [LinkedIn post](https://www.linkedin.com/posts/hoytemerson_if-you-work-in-data-then-apache-arrow-is-activity-7452374396775821312-05vN/)
+
 ## ACID Transactions in an Open Data Lakehouse
 * Title: ACID Transactions in an Open Data Lakehouse
 * Date: Feb. 2025
